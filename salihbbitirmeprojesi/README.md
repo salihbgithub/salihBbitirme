@@ -1,0 +1,1 @@
+Bu web sayfasında Burfaş müşterilerinin tercih ettikleri tatlıyı değerlendirmeleri amaçlanmıştır.
